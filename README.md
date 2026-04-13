@@ -1,5 +1,5 @@
 # Introducao-Computacao-Hardware-Victor-Nicolle
-#Investigação de hardware: Máquina Enigma
+# Investigação de hardware: Máquina Enigma
 
 **Alunos: Victor Gabriel e Nicolle Coelho**
 
