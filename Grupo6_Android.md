@@ -22,30 +22,28 @@ Grandes computadores centralizados (mainframes) eram usados por várias pessoas 
 
 ### Toda comunicação em rede depende de quatro elementos fundamentais:
 
- Emissor
+**Emissor**
 
 É quem envia a informação.
 Exemplo: celular enviando uma mensagem.
 
- Receptor
+**Receptor**
 
 É quem recebe a informação.
 Exemplo: outro celular recebendo a mensagem.
 
- Meio de Transmissão
+**Meio de Transmissão**
 
 É o caminho por onde os dados passam. Pode ser:
+- Cabos (fibra óptica, cabo de rede)
+- Sinais sem fio (Wi-Fi, Bluetooth)
 
-* Cabos (fibra óptica, cabo de rede)
-* Sinais sem fio (Wi-Fi, Bluetooth)
-
-• Protocolo
-
+**Protocolo**
 São regras que organizam a comunicação.
 Exemplo: HTTP, TCP/IP
 
 
-Exemplo prático completo:
+**Exemplo prático completo:**
 
 Quando você manda uma mensagem no WhatsApp:
 
