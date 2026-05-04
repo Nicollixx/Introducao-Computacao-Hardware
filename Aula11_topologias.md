@@ -3,14 +3,13 @@
 ## Nome(s) dos estudantes(s): Nicolle Coelho e Victor Gabriel e matrícula(s): 22610564 e 22610716
 
 ## 1. Topologia Escolhida
-
+![rede de estrela](https://a3aengenharia.com.br/wp-content/uploads/2024/03/topologia-em-estrela.png)
 A topologia de rede mais adequada para a minha residência é a topologia em estrela, na qual todos os dispositivos estão conectados a um ponto central, geralmente um roteador ou switch. Esse modelo é amplamente utilizado em redes locais modernas (LANs), principalmente por sua eficiência, organização e facilidade de expansão (TANENBAUM; FEAMSTER; WETHERALL, 2021).
 Em um ambiente doméstico, onde há múltiplos dispositivos conectados simultaneamente — como smartphones, notebooks, televisores inteligentes e videogames — essa estrutura permite uma comunicação mais controlada e eficiente entre os equipamentos.
 
 ## 2. Justificativa da Escolha
 
 A escolha da topologia em estrela se justifica principalmente pela sua confiabilidade e facilidade de gerenciamento. Diferentemente de outras topologias, como barramento e anel, em que uma falha pode comprometer toda a rede, na topologia em estrela os problemas tendem a ser isolados. Ou seja, se um dispositivo apresentar defeito ou for desconectado, isso não interfere diretamente no funcionamento dos demais.
-
 De acordo com Kurose e Ross (2021), essa característica torna a topologia em estrela mais robusta e adequada para ambientes que exigem estabilidade e continuidade no acesso à rede, como residências com uso frequente de internet para estudo, trabalho e entretenimento.
 
 ## 3. Vantagens no Uso Residencial
