@@ -1,6 +1,8 @@
-# 1. Linha do Tempo das Redes de Computadores
+# Aula 10 – Redes de Computadores: Histórico, Elementos e Classificação
 
-## A evolução das redes aconteceu em etapas importantes:
+## 1. Linha do Tempo das Redes de Computadores
+
+### A evolução das redes aconteceu em etapas importantes:
 
 * Década de 1960 – Mainframes
     Grandes computadores centralizados (mainframes) eram usados por várias pessoas ao mesmo tempo, mas sem redes como conhecemos hoje.
@@ -13,11 +15,10 @@
 * Anos 2000 até hoje – Redes Móveis e Wi-Fi
     Popularização de smartphones, redes sem fio e internet móvel (4G, 5G).
 
-⸻
 
-# 2. Elementos da Rede
+## 2. Elementos da Rede
 
-## Toda comunicação em rede depende de quatro elementos fundamentais:
+### Toda comunicação em rede depende de quatro elementos fundamentais:
 
 • Emissor
 
@@ -41,9 +42,8 @@ Exemplo: outro celular recebendo a mensagem.
 São regras que organizam a comunicação.
 Exemplo: HTTP, TCP/IP
 
-⸻
 
-✔ Exemplo prático completo
+Exemplo prático completo:
 
 Quando você manda uma mensagem no WhatsApp:
 
@@ -54,30 +54,27 @@ Quando você manda uma mensagem no WhatsApp:
 
 ⸻
 
-# 3. Classificação de Redes
+## 3. Classificação de Redes
 
-## As redes são classificadas de acordo com o tamanho/alcance:
+### As redes são classificadas de acordo com o tamanho/alcance:
 
 • PAN (Personal Area Network)
 
 Rede pessoal de curto alcance.
 Exemplo: Bluetooth entre celular e fone.
 
-⸻
 
 • LAN (Local Area Network)
 
 Rede local, como em casas ou escolas.
 Exemplo: Wi-Fi doméstico.
 
-⸻
 
 • MAN (Metropolitan Area Network)
 
 Rede que cobre uma cidade.
 Exemplo: redes de universidades ou prefeituras.
 
-⸻
 
 • WAN (Wide Area Network)
 
