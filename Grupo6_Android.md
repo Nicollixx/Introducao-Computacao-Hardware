@@ -27,16 +27,19 @@ Grandes computadores centralizados (mainframes) eram usados por várias pessoas 
 É quem envia a informação.
 Exemplo: celular enviando uma mensagem.
 
+
 **Receptor**
 
 É quem recebe a informação.
 Exemplo: outro celular recebendo a mensagem.
+
 
 **Meio de Transmissão**
 
 É o caminho por onde os dados passam. Pode ser:
 - Cabos (fibra óptica, cabo de rede)
 - Sinais sem fio (Wi-Fi, Bluetooth)
+
 
 **Protocolo**
 São regras que organizam a comunicação.
