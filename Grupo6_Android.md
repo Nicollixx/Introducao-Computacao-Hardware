@@ -1,5 +1,7 @@
 # Aula 10 – Redes de Computadores: Histórico, Elementos e Classificação
 
+## Nome(s) dos estudante(s): Nicolle Coelho e Victor Gabriel. Matrícula(s): Nicolle - 22610564 e Victor - 22610716
+
 ## 1. Linha do Tempo das Redes de Computadores
 
 ### A evolução das redes aconteceu em etapas importantes:
