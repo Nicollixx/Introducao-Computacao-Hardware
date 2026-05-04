@@ -1,5 +1,7 @@
 # Aula 11 – Redes de Computadores: Topologias, Dispositivos e Meios
 
+## Nome(s) dos estudantes(s): Nicolle Coelho e Victor Gabriel e matrícula(s): 22610564 e 22610716
+
 ## 1. Topologia Escolhida
 
 A topologia de rede mais adequada para a minha residência é a topologia em estrela, na qual todos os dispositivos estão conectados a um ponto central, geralmente um roteador ou switch. Esse modelo é amplamente utilizado em redes locais modernas (LANs), principalmente por sua eficiência, organização e facilidade de expansão (TANENBAUM; FEAMSTER; WETHERALL, 2021).
