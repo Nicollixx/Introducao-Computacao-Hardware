@@ -50,7 +50,7 @@ Esta HQ segue a jornada de Ana, uma universitária que recebe um e-mail suspeito
 
 ---
 
-## HQ 
+## HQ Phishing
 
 [https://drive.google.com/file/d/1EtUXPv0PhwEuLMjHLogafRUFaiHR0z7J/view?usp=sharing](https://drive.google.com/file/d/1EtUXPv0PhwEuLMjHLogafRUFaiHR0z7J/view?usp=sharing)
 
