@@ -1,0 +1,69 @@
+# Grupo6_Avaliacao3
+
+# Avaliação 3 – Unidade 5  
+## Segurança da Informação: Conceitos, Atributos, Ameaças e Mecanismos
+
+### Grupo X
+**Integrantes:** 
+- Nicolle Da Silva Coelho
+- Victor Gabriel Madeiro Brito Marques
+
+---
+
+### Ameaça Escolhida
+**Phishing** (golpes de engenharia social via e-mail, mensagens e sites falsos)
+
+---
+
+### Cartilha Utilizada como Referência
+**Título:** "Phishing e Outros Golpes" - Cartilha de Segurança para Internet  
+**Autor:** CERT.br (Centro de Estudos, Resposta e Tratamento de Incidentes de Segurança no Brasil)  
+**Link:** https://cartilha.cert.br/fasciculos/phishing-golpes/  
+**Publicação:** Atualizada em 2024-2025
+
+---
+
+### Breve Descrição do Artefato Produzido
+
+**Formato:** História em Quadrinhos (HQ) - 8 páginas  
+
+**Título da HQ:** "O Caso do E-mail Suspeito: Aventura contra o Phishing"
+
+**Resumo:**  
+Esta HQ segue a jornada de Ana, uma universitária que recebe um e-mail suspeito dizendo que sua conta foi bloqueada e que ela precisa clicar em um link para "reativar imediatamente". Através de situações cômicas e educativas, Ana aprende a identificar os sinais de phishing, entende os riscos envolvidos e descobre os mecanismos de proteção que pode aplicar para se proteger (verificação de remetente, uso de autenticação multifator, senhas fortes, e senso crítico).
+
+**O que a HQ explica:**
+1. **O que é phishing** - Golpe que usa engenharia social para roubar dados sensíveis
+2. **Riscos** - Perda de contas, roubo de dados financeiros, instalação de malware, identidade roubada
+3. **Mecanismos de proteção** - Autenticação multifator (MFA), verificar remetente, não clicar em links suspeitos, usar antivírus, senhas fortes e gerenciador de senhas
+4. **Exemplos práticos** - Situações reais de e-mails falsos, links fraudulentos, e como verificar se é golpe
+
+**Estrutura das Páginas:**
+- Página 1: Capa e introdução da personagem
+- Página 2: Ana recebe o e-mail suspeito
+- Página 3: Os primeiros sinais de alerta
+- Página 4: Os riscos revelados (consequências do clique)
+- Página 5: Aparece o "Mentor de Segurança" que ensina proteção
+- Página 6: Mecanismos de proteção na prática
+- Página 7: Ana aplica o conhecimento e evita o golpe
+- Página 8: Checklist final e dicas rápidas
+
+---
+
+## HQ Phishing
+
+[https://drive.google.com/file/d/1EtUXPv0PhwEuLMjHLogafRUFaiHR0z7J/view?usp=sharing](https://drive.google.com/file/d/1EtUXPv0PhwEuLMjHLogafRUFaiHR0z7J/view?usp=sharing)
+
+---
+
+### Arquivos Incluídos
+- `HQ_Phishing_Completa.pdf` - HQ pronta para visualização
+- `Roteiro_HQ_Phishing.txt` - Roteiro detalhado com descrição visual
+- `README.md` - Este arquivo
+- `Reflexao_Individual.txt` - Texto de reflexão individual (1 página)
+
+---
+
+### Referências
+1. CERT.br. "Phishing e Outros Golpes". Cartilha de Segurança para Internet. [https://cartilha.cert.br/fasciculos/phishing-golpes/](https://www.gov.br/governodigital/pt-br/privacidade-e-seguranca/fasciculos-cert.br/fasciculo-phishing-golpes-digital-govbr.pdf)
+2. CERT.br. "Cartilha de Segurança para Internet". https://cartilha.cert.br/
