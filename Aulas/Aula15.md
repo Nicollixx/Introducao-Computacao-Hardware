@@ -19,7 +19,7 @@
 **Título:** "Phishing e Outros Golpes" - Cartilha de Segurança para Internet  
 **Autor:** CERT.br (Centro de Estudos, Resposta e Tratamento de Incidentes de Segurança no Brasil)  
 **Link:** https://cartilha.cert.br/fasciculos/phishing-golpes/  
-**Publicação:** Atualizada em 2024-2025
+
 
 ---
 
