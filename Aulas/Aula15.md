@@ -1,5 +1,3 @@
-# Grupo6_Avaliacao3
-
 # Avaliação 3 – Unidade 5  
 ## Segurança da Informação: Conceitos, Atributos, Ameaças e Mecanismos
 
